@@ -8,7 +8,7 @@ c = 255 - a
 (c = cor invertida | a = cor original) 
 
 Resultado: 1. c = 255 - 29 = 226
-2. c = 255 - 89 = 166
+&ensp 2. c = 255 - 89 = 166
 3. 3. c = 255 - 136 = 119
 4.  4. c = 255 - 200 = 55
 
