@@ -14,6 +14,6 @@ Resultado:
 4. c = 255 - 200 = 55
 
 
-Explicação: temos que o máximo que podemos chegar nos numeros definidos é 255 (Preto Total).
+Explicação: Temos que o máximo que podemos chegar nos numeros definidos é 255 (Preto Total).
 
 Para invertermos as cores utilizamos o cálculo com a cor total e subtraindo a cor utilizada assim achamos o inverso da cor desejada.
