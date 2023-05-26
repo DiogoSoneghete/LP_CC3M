@@ -1,6 +1,6 @@
 # PSET PHOTOSHOP
 
-## Pasta principal do projeto do Pset do Photoshop
+## Pasta principal do projeto do Pset Photoshop
 
 #### -> Nome: Diogo Soneghete de Almeida
 #### -> Matricula: 202200152
