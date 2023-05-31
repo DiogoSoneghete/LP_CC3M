@@ -42,7 +42,7 @@ Para invertermos as cores utilizamos o cálculo com a cor total e subtraindo a c
 
 **Resultado:** Como temos pixels iguais a zero, eu relevei a conta destes pixels.
 Para entendermos o cálculo primeiro temos que ter em mente o local onde cada um se inicia.
-- Aqui como definido em Kernel, começar do canto superior esquerdo e sendo contado através das linhas de x e y.
+- Aqui como definido em Kernel, começamos do canto superior esquerdo e contamos através das linhas de x e y.
 - Definido pelo pixel temos o pixel central como padrão, sendo ele o x,y inicial.
 
  Logo após fazemos o nosso calculo baseado na fórmula:
@@ -51,4 +51,5 @@ Para entendermos o cálculo primeiro temos que ter em mente o local onde cada um
 
 Após aplicarmos a fórmula em todas as posições, nós somamos e obtemos o resultado esperado que deverá sera 32,76 ou aproximadamente 33, usando arredondamento.
 
-![Calc](https://github.com/DiogoSoneghete/LP_CC3M/assets/103038064/170f8ce9-9f1a-47dd-bd47-ef4b54a15772)
+
+![Calc](https://github.com/DiogoSoneghete/LP_CC3M/assets/103038064/4f01a515-3b48-463d-83ea-9246a5d44bcf)
