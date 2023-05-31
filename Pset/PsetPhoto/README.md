@@ -19,7 +19,7 @@ Explicação: Temos que o máximo que podemos chegar nos numeros definidos é 25
 Para invertermos as cores utilizamos o cálculo com a cor total e subtraindo a cor utilizada assim achamos o inverso da cor desejada.
 
 
-#### Questão 1)
+#### Questão 2)
 
 **Resultado:**
 Temos o Resultado salvo na pasta imagens como bluegill.png
