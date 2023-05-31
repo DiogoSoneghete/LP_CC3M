@@ -8,6 +8,8 @@
 
 #### se você passar essa imagem pelo filtro de inversão, qual seria o output esperado?
 
+##### Calculando:
+
 Fórmula utilizada:
 - c = 255 - a
 
