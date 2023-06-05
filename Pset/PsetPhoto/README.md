@@ -2,9 +2,9 @@
 
 ### Questão 1)
 
-- altura: 1
-- largura: 4
-- pixels: [29, 89, 136, 200]
+> - altura: 1
+> - largura: 4
+> - pixels: [29, 89, 136, 200]
 
 #### se você passar essa imagem pelo filtro de inversão, qual seria o output esperado?
 
@@ -29,7 +29,7 @@ Para invertermos as cores utilizamos o cálculo com a cor total e subtraindo a c
 
 ### Questão 2)
 
-#### faça a depuração e, quando terminar, seu código deve conseguirpassar em todos os testes do grupo de teste TestInvertida (incluindo especificamente o que você acabou de criar). Execute seu filtro de inversão na imagem test_images/bluegill.png, salve o resultado como uma imagem PNG e salve a imagem em seu repositório GitHub.
+> #### faça a depuração e, quando terminar, seu código deve conseguirpassar em todos os testes do grupo de teste TestInvertida (incluindo especificamente o que você acabou de criar). Execute seu filtro de inversão na imagem test_images/bluegill.png, salve o resultado como uma imagem PNG e salve a imagem em seu repositório GitHub.
 
 **Resultado:**
 
@@ -38,7 +38,7 @@ Para invertermos as cores utilizamos o cálculo com a cor total e subtraindo a c
 
 ### Questão 3)
 
-#### Qual será o valor do pixel na imagem de saída no local indicado pelo destaque vermelho?
+> #### Qual será o valor do pixel na imagem de saída no local indicado pelo destaque vermelho?
 
 **Resultado:** Como temos pixels iguais a zero, eu relevei a conta destes pixels.
 Para entendermos o cálculo primeiro temos que ter em mente o local onde cada um se inicia.
